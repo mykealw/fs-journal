@@ -27,7 +27,7 @@ mkdir means make directory. It is for making a directory.
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-cascading style sheets
+cascading style sheets, it is the make up we put on our web pages
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -50,13 +50,13 @@ cascading style sheets
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul ol 
 ```
 
 **10.** Define the display `:flex property:`
