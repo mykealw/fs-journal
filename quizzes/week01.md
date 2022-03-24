@@ -62,7 +62,7 @@ ul unordered ol ordered  dl description list
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-flex defaults to fill the space. I'm not sure what this question is asking??
+html default read top to bottom. d-flex allows it to read left to right. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
