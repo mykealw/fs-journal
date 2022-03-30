@@ -36,7 +36,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-you.push(them)  if wanted specific item 
+you.push(them)  if wanted specific item such as friends ** is that what it was asking???**
 you.push(them.friends)
 ```
 
