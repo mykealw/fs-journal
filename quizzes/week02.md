@@ -63,7 +63,14 @@ Document object material, root html is accessed first.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+boolean type 
+null type
+undefined type
+number type
+bigint type
+string type
+symbol type 
+objects?? 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
