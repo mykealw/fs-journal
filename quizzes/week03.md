@@ -36,7 +36,7 @@ single purpose
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+proxies are middleware for javascript (from reading) 
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
