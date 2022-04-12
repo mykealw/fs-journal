@@ -23,7 +23,7 @@ OPEN CLOSE PRINCIPAL
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+a promise is an object. You capture an error with a catch when using promises (and async await) 
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
@@ -38,17 +38,17 @@ application programming interface
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-service makes the get function
+service makes the get/put/post/delete function
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-to encasulate which has security and organization benefits
+Encapsulation is a best practice method. We do this to encasulate which has security and organization benefits
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-200
+A success response code is 200.
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
