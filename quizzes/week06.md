@@ -8,17 +8,20 @@
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
+A page is the total application currently on the DOM (often times made of many componets). A componet is a self sufficient element that can be displayed on the page. 
 
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for. This is the new school for each we used to use.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template- this is where we put the html -- 
+script- this is where we do the JS logic and functions -- 
+style- where we make it pretty. 
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -33,6 +36,7 @@
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
+SCOPE! appState is global, the state is local.
 
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
@@ -53,5 +57,6 @@
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
+react and ref. React is for full objects whereas ref is for primitive values. 
 
 ```
