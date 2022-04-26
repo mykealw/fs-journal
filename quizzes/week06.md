@@ -42,7 +42,7 @@ SCOPE! appState is global, the state is local.
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+The responsibility of Services hasn't changed. It is to manipulate the data. Still cooks in the kitchen. 
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
