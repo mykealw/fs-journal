@@ -4,6 +4,8 @@
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
+v-model
+v-bind for 2 way binding
 
 ```
 
