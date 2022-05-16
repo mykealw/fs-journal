@@ -9,12 +9,12 @@ It is used to handle the dependencies of your project as well as handle the npm.
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
-
+at the highest possible
 ```
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
 ```
-
+vite config
 ```
 **4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -24,11 +24,12 @@ ENV
 **5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
-
+through the dashboard, and through logDNA?? 
 ```
 **6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
 ```
+You update it through github and push? 
 
 ```
 **7.** Why is branching important to version control?
