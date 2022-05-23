@@ -3,6 +3,7 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
+Inheritance is when you gain things from you parents. For example in CSS inherited things have low specificity so you can override them with local things. Inheritance also happens in other languages. In Vue, we do the extends basecontroller which is saying inherit the basecontroller properties. 
 
 ```
 **2.** What is the `Singleton` design pattern?
